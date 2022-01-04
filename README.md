@@ -1,9 +1,9 @@
 <h1 align="center">Hello🎀🐰</h1>
 <h3 align="center">I am quality assurance</h3>
 
-🐰 Currently learning **automed testing 🐰**
+🐰 👩🏻‍💻  Currently learning **AUTOMED TESTING 👩🏻‍💻 🐰**
 
-🐰 **I am who i am today because of the choices i made yesterday**🐰
+🐰 **I am who I am today because of the choices I made yesterday**🐰
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
