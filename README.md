@@ -3,7 +3,7 @@
 
 🐰 👩🏻‍💻  Currently learning **AUTOMED TESTING 👩🏻‍💻 🐰**
 
-🐰 **I am who I am today because of the choices I made yesterday**🐰
+
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
