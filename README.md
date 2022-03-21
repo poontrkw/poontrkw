@@ -9,9 +9,7 @@
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="15" width="15" /></a> Poontarika Poon
 </p>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="15" width="15" /></a> Poontrkw
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
